@@ -1,0 +1,45 @@
+{
+    "Projects" : [
+        {
+            "id" : 1,
+            "title": "Airbnb Replica",
+            "description" : "",
+            "isFeatured" : true,
+            "image" : "/projects/Listings.png",
+            "links":""
+        },
+        {
+            "id" : 2,
+            "title": "Currency Convertor",
+            "description" : "",
+            "isFeatured" : true,
+            "image" : "/projects/currencyConvertor.png",
+            "links":"https://currency-convertor-react-js-blond.vercel.app/"
+
+        },
+        {
+            "id" : 3,
+            "title": "Spotify UI Clone",
+            "description" : "",
+            "isFeatured" : true,
+            "image" : "/projects/spotify.png",
+            "links":""
+        },
+        {
+            "id" : 4,
+            "title": "3D Portfolio Website",
+            "description" : "",
+            "isFeatured" : true,
+            "image" : "/projects/HomePage.png",
+            "links":"https://cs-bharat.github.io/My-portfolio/"
+        },
+        {
+            "id" : 5,
+            "title": "Simon Says Game",
+            "description" : "",
+            "isFeatured" : true,
+            "image" : "/projects/simonSays.png",
+            "links":"https://cs-bharat.github.io/Javascript-Project/simon-says-game/index.html"
+        }
+    ]
+}

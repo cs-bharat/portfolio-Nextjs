@@ -1,0 +1,49 @@
+{
+    "Skilss": [
+        {
+            "id" : 1,
+            "skillsIn": "JavScript",
+            "required" : "industry level",
+            "isFeatured" : true,
+            "description" : "hello i am learning javascript and buid some based on javascript "
+            
+        },
+        {
+            "id" : 2,
+            "skillsIn": "ReactJS",
+            "required" : "Business logic",
+            "isFeatured" : true,
+            "description" :"hello i am learning ReactJS and buid some project based on  javascript and react liabrary "
+        },
+        {
+            "id" : 3,
+            "skillsIn": "Backend",
+            "required" : "Complex database",
+            "isFeatured" : true,
+            "description" :"hello i am learning Backend and buid project some based on Backend various technology used. "
+
+        },
+        {
+            "id" : 4,
+            "skillsIn": "C plus plus",
+            "required" : "Coding questions",
+            "isFeatured" : true,
+            "description" :"hello i am learning c++ language  and leetcode question solving using c++ and learn DS "
+        },
+        {
+            "id" : 5,
+            "skillsIn": "Git Github",
+            "required" : "version control",
+            "isFeatured" : true,
+            "description" :"hello i am learning git github and managed code used version control system"
+        },
+        {
+            "id" : 6,
+            "skillsIn": "DigitalOcean",
+            "required" : "Production",
+            "isFeatured" : true,
+            "description" :"I am knowledge about how to deploy code in production level. "
+        }
+    ]
+}
+
